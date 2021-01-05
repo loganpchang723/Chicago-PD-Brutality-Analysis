@@ -1,3 +1,6 @@
+/*
+This file creates a pixelated map from a list of block-group/beat boundary coordinates
+*/
 #include <fstream>
 // #include <iostream>
 #include <limits>
