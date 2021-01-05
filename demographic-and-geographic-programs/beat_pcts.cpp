@@ -1,3 +1,6 @@
+/*
+This finds the demographic percantages in each beat 
+*/
 #include <fstream>
 #include <map>
 #include <vector>
