@@ -1,3 +1,6 @@
+/*
+This file provides helper functions to map_gen.cpp in creating the map of beats
+*/
 #include <cstdlib>
 #include <vector>
 using namespace std;
